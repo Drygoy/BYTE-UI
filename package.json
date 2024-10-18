@@ -1,0 +1,11 @@
+{
+  "name": "byteui",
+  "version": "1.0.0",
+  "description": "incredibly lightweight, simple and rigorous UI library for preact",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dikiy, Slipe",
+  "license": "AGPL-3.0-only"
+}
